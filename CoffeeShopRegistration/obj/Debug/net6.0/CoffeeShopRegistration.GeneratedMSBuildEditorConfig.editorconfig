@@ -16,10 +16,6 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\andre\source\repos\CoffeeShopRegistration\CoffeeShopRegistration
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/andre/source/repos/CoffeeShopRegistration/CoffeeShopRegistration/Views/App/Summary.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwXFN1bW1hcnkuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/andre/source/repos/CoffeeShopRegistration/CoffeeShopRegistration/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -30,6 +26,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/andre/source/repos/CoffeeShopRegistration/CoffeeShopRegistration/Views/Home/Registration.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZWdpc3RyYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/andre/source/repos/CoffeeShopRegistration/CoffeeShopRegistration/Views/Home/Summary.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTdW1tYXJ5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/andre/source/repos/CoffeeShopRegistration/CoffeeShopRegistration/Views/Shared/Error.cshtml]

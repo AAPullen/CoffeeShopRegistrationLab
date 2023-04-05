@@ -23,7 +23,24 @@ namespace CoffeeShopRegistration.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+        [HttpPost]
+        public IActionResult HandleSubmit(UserProfile userProfile)
+        {
+            if (ModelState.IsValid == false)
+            {
+                return Redirect("https://localhost:7147/home/registration");
+            }
+
+            return RedirectToAction("Summary", userProfile);
+        }
+
+        public IActionResult Summary(UserProfile userProfile)
+        {
+            return View(userProfile);
+        }
+    
+
+    public IActionResult Privacy()
         {
             return View();
         }
